@@ -1,0 +1,41 @@
+{
+  "generated": "2025-07-17T22:09:47.473698Z",
+  "degree_programs": {
+    "1157": {
+      "name": "Degree Program 1157",
+      "terms": {
+        "1746": {
+          "name": "Semester 1746",
+          "courses": {
+            "12345": {
+              "name": "Mathematik I",
+              "remote": "https://github.com/Lexit-Learning/c12345.git",
+              "hero_image": null,
+              "content_resource_id": "1159522",
+              "files": []
+            },
+            "12346": {
+              "name": "Programmierung I",
+              "remote": "https://github.com/Lexit-Learning/c12346.git",
+              "hero_image": null,
+              "content_resource_id": "1159523",
+              "files": []
+            }
+          }
+        },
+        "1745": {
+          "name": "Semester 1745",
+          "courses": {
+            "22222": {
+              "name": "Datenbanken",
+              "remote": "https://github.com/Lexit-Learning/c22222.git",
+              "hero_image": null,
+              "content_resource_id": "1159524",
+              "files": []
+            }
+          }
+        }
+      }
+    }
+  }
+}
