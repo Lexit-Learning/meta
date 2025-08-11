@@ -1,803 +1,885 @@
 {
-    "degree_program": {
-        "id": "1157",
-        "name": "Computational and Data Science",
-        "terms": [
-            {
-                "id": "1886",
-                "name": "HS25",
-                "courses": [
-                    {
-                        "id": "19475",
-                        "name": "Computational and Data Science im Spitzensport",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "19412",
-                        "name": "Algorithmen und Datenstrukturen",
-                        "hero_image": ""
-                    }
-                ]
-            },
-            {
-                "id": "1745",
-                "name": "FS25",
-                "courses": [
-                    {
-                        "id": "18867",
-                        "name": "Artificial Intelligence in Software Engineering I (aise-501)",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "18866",
-                        "name": "Wissenschaftliches Arbeiten (TZ) Grundlagen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1159618/course/overviewfiles/Kunst2.JPG"
-                    },
-                    {
-                        "id": "18863",
-                        "name": "Programmierung und Prompt Engineering II",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1159522/course/overviewfiles/PythonBooks.PNG"
-                    },
-                    {
-                        "id": "18862",
-                        "name": "Einführung Artificial Intelligence (cds-)",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "18248",
-                        "name": "Natural Language Processing",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125812/course/overviewfiles/shutterstock_2183480583.jpg"
-                    },
-                    {
-                        "id": "18246",
-                        "name": "Wissenschaftliches Arbeiten (VZ) Grundlagen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125748/course/overviewfiles/99_IMG_2291.JPG"
-                    },
-                    {
-                        "id": "18243",
-                        "name": "Modellierung und Simulation II",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125650/course/overviewfiles/modsim2.png"
-                    },
-                    {
-                        "id": "18242",
-                        "name": "Deep Learning",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125618/course/overviewfiles/istockphoto-1689739923-2048x2048.jpg"
-                    },
-                    {
-                        "id": "18241",
-                        "name": "High Performance Computing",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125586/course/overviewfiles/hpc.png"
-                    },
-                    {
-                        "id": "18240",
-                        "name": "Effiziente Algorithmen",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "18239",
-                        "name": "Simulation in der Physik",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125522/course/overviewfiles/this.jpg"
-                    },
-                    {
-                        "id": "18237",
-                        "name": "Mathematik II",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125458/course/overviewfiles/Integration_Differential_b.png"
-                    },
-                    {
-                        "id": "18236",
-                        "name": "Numerische Methoden",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "18235",
-                        "name": "Projektarbeit Computational and Data Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125394/course/overviewfiles/symbolbild-moodle.PNG"
-                    },
-                    {
-                        "id": "18234",
-                        "name": "Bachelor Thesis",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125362/course/overviewfiles/mathew-schwartz-8rj4sz9YLCI-unsplash.jpg"
-                    },
-                    {
-                        "id": "18233",
-                        "name": "NoSQL Datenbanken",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "18232",
-                        "name": "Large Language Models",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125298/course/overviewfiles/transformer.PNG"
-                    },
-                    {
-                        "id": "18231",
-                        "name": "Software Architektur und Engineering",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "18229",
-                        "name": "Data Science und Informatik bei Banken und Versicherungen",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "18228",
-                        "name": "Datenbanken und Datenverarbeitung",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "17514",
-                        "name": "Design Thinking",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058778/course/overviewfiles/pexels-frans-van-heerden-201846-632470.jpg"
-                    },
-                    {
-                        "id": "17512",
-                        "name": "First Certificate in English B2.2",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "16313",
-                        "name": "Wissenschaftliches Arbeiten Scientific Community",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982967/course/overviewfiles/ISI_20231107_057.jpg"
-                    }
-                ]
-            },
-            {
-                "id": "1746",
-                "name": "HS24",
-                "courses": [
-                    {
-                        "id": "18030",
-                        "name": "Bootcamp Wissenschaftliches Arbeiten (cds)",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "17527",
-                        "name": "Einführung in Data Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059194/course/overviewfiles/cds1010.jpg"
-                    },
-                    {
-                        "id": "17526",
-                        "name": "Einführung in Computational Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059162/course/overviewfiles/cds_intro_sim.jpg"
-                    },
-                    {
-                        "id": "17525",
-                        "name": "Mathematik I",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059130/course/overviewfiles/AdobeStock_452512134.png"
-                    },
-                    {
-                        "id": "17519",
-                        "name": "Mathematik III",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058938/course/overviewfiles/AdobeStock_224008601.png"
-                    },
-                    {
-                        "id": "17517",
-                        "name": "Agiles Projektmanagement",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058874/course/overviewfiles/APM.jpg"
-                    },
-                    {
-                        "id": "17516",
-                        "name": "Nachhaltigkeit",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "17515",
-                        "name": "Innovationsmanagement",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058810/course/overviewfiles/matt-ridley-Lyl8RL7imrw-unsplash.jpg"
-                    },
-                    {
-                        "id": "17513",
-                        "name": "First Certificate in English B2.1",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058746/course/overviewfiles/ilgmyzin-mSIFEZ8WW1M-unsplash.jpg"
-                    },
-                    {
-                        "id": "17511",
-                        "name": "Modellierung und Simulation I",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058682/course/overviewfiles/modsim.jpg"
-                    },
-                    {
-                        "id": "17510",
-                        "name": "Machine Learning",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058650/course/overviewfiles/phd053104s.gif"
-                    },
-                    {
-                        "id": "17509",
-                        "name": "Big Data",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058618/course/overviewfiles/bigdata-kurs.jpg"
-                    },
-                    {
-                        "id": "17508",
-                        "name": "Time Series Analysis",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058586/course/overviewfiles/2148879428.jpg"
-                    },
-                    {
-                        "id": "17507",
-                        "name": "Programmierung und Prompt Engineering",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058554/course/overviewfiles/10714013_33861.jpg"
-                    },
-                    {
-                        "id": "17505",
-                        "name": "Algorithmen und Datenstrukturen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058490/course/overviewfiles/Bild1.png"
-                    },
-                    {
-                        "id": "17503",
-                        "name": "Computer Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058426/course/overviewfiles/Titelbild.jpg"
-                    },
-                    {
-                        "id": "17502",
-                        "name": "Cloud Computing",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058394/course/overviewfiles/unnamed.jpg"
-                    },
-                    {
-                        "id": "17501",
-                        "name": "Data Science und Informatik in der Medizin",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058362/course/overviewfiles/marcelo-leal-k7ll1hpdhFA-unsplash.jpg"
-                    },
-                    {
-                        "id": "17500",
-                        "name": "Data Science und Informatik in der Biologie",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058330/course/overviewfiles/shutterstock_2142775731.jpg"
-                    },
-                    {
-                        "id": "17499",
-                        "name": "Strömungssimulation",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058298/course/overviewfiles/density.png"
-                    },
-                    {
-                        "id": "17498",
-                        "name": "Personenstromsimulation",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058266/course/overviewfiles/stair-without-ui.PNG"
-                    },
-                    {
-                        "id": "17497",
-                        "name": "Fortgeschrittene Numerische Methoden",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "17495",
-                        "name": "Applied English for Computational and Data Scientists",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "16316",
-                        "name": "Question Answering",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/983067/course/overviewfiles/mohamed-nohassi--0xMiYQmk8g-unsplash.jpg"
-                    },
-                    {
-                        "id": "16314",
-                        "name": "Wissenschaftliches Arbeiten Studienarbeit",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/983001/course/overviewfiles/IMG_2664b.jpg"
-                    }
-                ]
-            },
-            {
-                "id": "1561",
-                "name": "FS24",
-                "courses": [
-                    {
-                        "id": "16317",
-                        "name": "Natural Language Processing",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/983100/course/overviewfiles/shutterstock_2183480583.jpg"
-                    },
-                    {
-                        "id": "16315",
-                        "name": "Wissenschaftliches Arbeiten Grundlagen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/983034/course/overviewfiles/KunstHS22DBM.jpg"
-                    },
-                    {
-                        "id": "16312",
-                        "name": "Datenbanken und Datenverarbeitung",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982933/course/overviewfiles/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
-                    },
-                    {
-                        "id": "16311",
-                        "name": "Deep Learning",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982900/course/overviewfiles/Top-7-Machine-Learning-Frameworks-Para-2020.jpg"
-                    },
-                    {
-                        "id": "16310",
-                        "name": "High Performance Computing",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982867/course/overviewfiles/hpc.png"
-                    },
-                    {
-                        "id": "16309",
-                        "name": "Fortschrittliche Programmiertechniken",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982834/course/overviewfiles/4401280.jpg"
-                    },
-                    {
-                        "id": "16307",
-                        "name": "Effiziente Algorithmen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982768/course/overviewfiles/Kursbild_Voronoi.jpg"
-                    },
-                    {
-                        "id": "16306",
-                        "name": "Cryptographie und Security",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982735/course/overviewfiles/Sicherheit%20Banner.jpg"
-                    },
-                    {
-                        "id": "16305",
-                        "name": "Frontend Entwicklung",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982702/course/overviewfiles/DALL%C2%B7E%202024-01-30%2011.45.35%20-%20Create%20a%20clean%20and%20stylized%20illustration%20that%20abstractly%20represents%20learning%20front-end%20development.%20The%20image%20should%20feature%20a%20sleek%2C%20modern%20monitor%20d.png"
-                    },
-                    {
-                        "id": "16304",
-                        "name": "Data Science und Informatik bei Banken und Versicherungen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982669/course/overviewfiles/screen-with-graph-it-that-says-word-financial-it.jpg"
-                    },
-                    {
-                        "id": "16303",
-                        "name": "Robotic Process Automation (RPA) (cds-309, PRAM)",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982636/course/overviewfiles/Robot_Wide.png"
-                    },
-                    {
-                        "id": "16302",
-                        "name": "Neuroscience und Brain Computer Interface",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "16301",
-                        "name": "Mathematik 2",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982570/course/overviewfiles/stapel-buecher-mit-bleistifthalter-und-brille-gegen-eine-tafel.jpg"
-                    },
-                    {
-                        "id": "16300",
-                        "name": "Numerische Methoden E",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "16298",
-                        "name": "Projektarbeit Computational and Data Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982471/course/overviewfiles/symbolbild-moodle.PNG"
-                    },
-                    {
-                        "id": "16297",
-                        "name": "Bachelor Thesis",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982438/course/overviewfiles/mathew-schwartz-8rj4sz9YLCI-unsplash.jpg"
-                    },
-                    {
-                        "id": "15519",
-                        "name": "Design Thinking",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897749/course/overviewfiles/kvalifik-HQgj1kE2SRo-unsplash%20%281%29.jpg"
-                    },
-                    {
-                        "id": "15517",
-                        "name": "First Certificate in English B2.2",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "14553",
-                        "name": "Wissenschaftliches Arbeiten Scientific Community",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842250/course/overviewfiles/ISI_20231107_057.jpg"
-                    }
-                ]
-            },
-            {
-                "id": "1562",
-                "name": "HS23",
-                "courses": [
-                    {
-                        "id": "16091",
-                        "name": "Bootcamp Wissenschaftliches Arbeiten (cds)",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "15529",
-                        "name": "Einführung in Data Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/898079/course/overviewfiles/cds1010.jpg"
-                    },
-                    {
-                        "id": "15528",
-                        "name": "Einführung in Computational Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/898046/course/overviewfiles/cds_intro_sim.jpg"
-                    },
-                    {
-                        "id": "15527",
-                        "name": "Mathematik I",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/898013/course/overviewfiles/AdobeStock_379656183.png"
-                    },
-                    {
-                        "id": "15524",
-                        "name": "Mathematik III",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897914/course/overviewfiles/AdobeStock_296597624.png"
-                    },
-                    {
-                        "id": "15522",
-                        "name": "Agiles Projektmanagement",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897848/course/overviewfiles/patrick-perkins-ETRPjvb0KM0-unsplash.jpg"
-                    },
-                    {
-                        "id": "15520",
-                        "name": "Innovationsmanagement",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897782/course/overviewfiles/pexels-pixabay-355948%20%281%29.jpg"
-                    },
-                    {
-                        "id": "15518",
-                        "name": "First Certificate in English B2.1",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "15516",
-                        "name": "Modellierung und Simulation I",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897650/course/overviewfiles/modsim.jpg"
-                    },
-                    {
-                        "id": "15515",
-                        "name": "Modellierung und Simulation II",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897617/course/overviewfiles/modsim2.png"
-                    },
-                    {
-                        "id": "15514",
-                        "name": "Machine Learning",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "15512",
-                        "name": "Reinforcement Learning",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897518/course/overviewfiles/22112064_6542704.jpg"
-                    },
-                    {
-                        "id": "15511",
-                        "name": "Recommender Systems",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897485/course/overviewfiles/11669306_20945889.jpg"
-                    },
-                    {
-                        "id": "15510",
-                        "name": "Einführung in die Programmierung",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897452/course/overviewfiles/10714013_33861.jpg"
-                    },
-                    {
-                        "id": "15508",
-                        "name": "Algorithmen und Datenstrukturen",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "15506",
-                        "name": "Computer Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897320/course/overviewfiles/Titelbild.jpg"
-                    },
-                    {
-                        "id": "15505",
-                        "name": "Systemnahe Programmierung",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897287/course/overviewfiles/Structure-of-the-RISC-CPU.png"
-                    },
-                    {
-                        "id": "15504",
-                        "name": "Data Science und Informatik in der Medizin",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "15503",
-                        "name": "Data Science und Informatik in der Biologie",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897221/course/overviewfiles/shutterstock_2142775731.jpg"
-                    },
-                    {
-                        "id": "15502",
-                        "name": "Numerische Methoden F",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "15500",
-                        "name": "Applied English for Computational and Data Scientists",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "14559",
-                        "name": "Question Answering",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842432/course/overviewfiles/mohamed-nohassi--0xMiYQmk8g-unsplash.jpg"
-                    },
-                    {
-                        "id": "14554",
-                        "name": "Wissenschaftliches Arbeiten Studienarbeit",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842281/course/overviewfiles/99_IMG_2291.JPG"
-                    }
-                ]
-            },
-            {
-                "id": "1503",
-                "name": "FS23",
-                "courses": [
-                    {
-                        "id": "14869",
-                        "name": "LaTeX Bootcamp",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/863220/course/overviewfiles/latex.png"
-                    },
-                    {
-                        "id": "14560",
-                        "name": "Natural Language Processing",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842462/course/overviewfiles/shutterstock_2183480583.jpg"
-                    },
-                    {
-                        "id": "14558",
-                        "name": "Physik 2",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842402/course/overviewfiles/Gyroscope.jpg"
-                    },
-                    {
-                        "id": "14557",
-                        "name": "Design Thinking",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842372/course/overviewfiles/kvalifik-HQgj1kE2SRo-unsplash.jpg"
-                    },
-                    {
-                        "id": "14556",
-                        "name": "First Certificate in English B2.2",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "14555",
-                        "name": "Wissenschaftliches Arbeiten Grundlagen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842312/course/overviewfiles/KunstHS22DBM.jpg"
-                    },
-                    {
-                        "id": "14552",
-                        "name": "Datenverarbeitung",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842219/course/overviewfiles/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
-                    },
-                    {
-                        "id": "14551",
-                        "name": "Deep Learning",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842189/course/overviewfiles/istockphoto-1205321953-1024x1024.jpg"
-                    },
-                    {
-                        "id": "14550",
-                        "name": "High Performance Computing",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842159/course/overviewfiles/hpc.png"
-                    },
-                    {
-                        "id": "14549",
-                        "name": "Big Data",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "14548",
-                        "name": "Fortschrittliche Programmiertechniken",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842099/course/overviewfiles/top-programming-languages.png"
-                    },
-                    {
-                        "id": "14547",
-                        "name": "Effiziente Algorithmen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842069/course/overviewfiles/algorithms.png"
-                    },
-                    {
-                        "id": "14545",
-                        "name": "Simulation in der Physik",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842009/course/overviewfiles/this.jpg"
-                    },
-                    {
-                        "id": "14544",
-                        "name": "Strömungssimulation",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/841979/course/overviewfiles/anzeigebild.png"
-                    },
-                    {
-                        "id": "14543",
-                        "name": "Analysis und Lineare Algebra 2",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/841949/course/overviewfiles/Blackboard_diverse-drawings.jpg"
-                    },
-                    {
-                        "id": "14542",
-                        "name": "Numerische Methoden E",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "14540",
-                        "name": "Projektarbeit Computational and Data Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/841859/course/overviewfiles/pexels-fauxels-3183150.jpg"
-                    }
-                ]
-            },
-            {
-                "id": "1441",
-                "name": "HS22",
-                "courses": [
-                    {
-                        "id": "13852",
-                        "name": "Bootcamp Wissenschaftliches Arbeiten (cds)",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/789748/course/overviewfiles/IMG_2224.JPG"
-                    },
-                    {
-                        "id": "13725",
-                        "name": "Einführung in Data Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728979/course/overviewfiles/cds1010.jpg"
-                    },
-                    {
-                        "id": "13724",
-                        "name": "Einführung in Computational Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728950/course/overviewfiles/cds_intro_sim.jpg"
-                    },
-                    {
-                        "id": "13723",
-                        "name": "Physik 1",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728921/course/overviewfiles/CollageFisica_cropped.png"
-                    },
-                    {
-                        "id": "13721",
-                        "name": "Agiles Projektmanagement",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "13720",
-                        "name": "Nachhaltigkeit",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728834/course/overviewfiles/Sustainability-technology-thumbnail-1050x1050.jpg"
-                    },
-                    {
-                        "id": "13719",
-                        "name": "Innovationsmanagement",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728805/course/overviewfiles/pexels-pixabay-355948%20%281%29.jpg"
-                    },
-                    {
-                        "id": "13717",
-                        "name": "First Certificate in English B2.1",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "13715",
-                        "name": "Modellierung und Simulation I",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728688/course/overviewfiles/modsim.jpg"
-                    },
-                    {
-                        "id": "13714",
-                        "name": "Machine Learning",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "13713",
-                        "name": "Einführung in die Programmierung",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728630/course/overviewfiles/jmricodeswarm.gif"
-                    },
-                    {
-                        "id": "13711",
-                        "name": "Algorithmen und Datenstrukturen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728572/course/overviewfiles/aufgabe-suchbaum.PNG"
-                    },
-                    {
-                        "id": "13709",
-                        "name": "Einführung in Computer Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728514/course/overviewfiles/Titelbild.jpg"
-                    },
-                    {
-                        "id": "13708",
-                        "name": "Daten und Simulation in der Medizin",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "13707",
-                        "name": "Data Science und Informatik in der Biologie",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728456/course/overviewfiles/shutterstock_2142775731.jpg"
-                    },
-                    {
-                        "id": "13706",
-                        "name": "Analysis und Lineare Algebra 1",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728427/course/overviewfiles/dan-cristian-padure-h3kuhYUCE9A-unsplash.jpg"
-                    },
-                    {
-                        "id": "13705",
-                        "name": "Fortgeschrittene Numerische Methoden",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "13703",
-                        "name": "Stochastik und Differentialgleichungen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728340/course/overviewfiles/pexels-jonathan-petersson-965879.jpg"
-                    },
-                    {
-                        "id": "13702",
-                        "name": "Applied English for Computational and Data Scientists",
-                        "hero_image": ""
-                    }
-                ]
-            },
-            {
-                "id": "1351",
-                "name": "FS22",
-                "courses": [
-                    {
-                        "id": "12163",
-                        "name": "Physik 2",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655658/course/overviewfiles/colin-lloyd-XjbLBkyrB_s-unsplash.jpg"
-                    },
-                    {
-                        "id": "12162",
-                        "name": "Design Thinking",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655632/course/overviewfiles/pexels-tim-gouw-53874.jpg"
-                    },
-                    {
-                        "id": "12161",
-                        "name": "First Certificate in English B2.2",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "12160",
-                        "name": "Datenverarbeitung",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655580/course/overviewfiles/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
-                    },
-                    {
-                        "id": "12159",
-                        "name": "Fortschrittliche Programmiertechniken",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655554/course/overviewfiles/jmricodeswarm.gif"
-                    },
-                    {
-                        "id": "12158",
-                        "name": "Effiziente Algorithmen",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655528/course/overviewfiles/algorithms.png"
-                    },
-                    {
-                        "id": "12156",
-                        "name": "Analysis und Lineare Algebra 2",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655476/course/overviewfiles/dan-cristian-padure-xJLN32FO7AY-unsplash.jpg"
-                    },
-                    {
-                        "id": "12155",
-                        "name": "Numerische Methoden",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "12384",
-                        "name": "Bootcamp Wissenschaftliches Arbeiten und LaTeX (cds)",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/687720/course/overviewfiles/IMG_2224.JPG"
-                    }
-                ]
-            },
-            {
-                "id": "1281",
-                "name": "HS21",
-                "courses": [
-                    {
-                        "id": "10790",
-                        "name": "Einführung in Data Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/589028/course/overviewfiles/cds1010.jpg"
-                    },
-                    {
-                        "id": "10789",
-                        "name": "Einführung in Computational Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/589002/course/overviewfiles/cds_intro_sim.jpg"
-                    },
-                    {
-                        "id": "10788",
-                        "name": "Physik 1",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588976/course/overviewfiles/78_MS_1965.jpg"
-                    },
-                    {
-                        "id": "10787",
-                        "name": "Agiles Projektmanagement",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588950/course/overviewfiles/leon-Oalh2MojUuk-unsplash.jpg"
-                    },
-                    {
-                        "id": "10786",
-                        "name": "Nachhaltigkeit",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "10785",
-                        "name": "Innovationsmanagement",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588898/course/overviewfiles/pexels-pixabay-355948.jpg"
-                    },
-                    {
-                        "id": "10784",
-                        "name": "First Certificate in English B2.1",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588872/course/overviewfiles/gonzalo-facello-mapwMeloRgo-unsplash.jpg"
-                    },
-                    {
-                        "id": "10783",
-                        "name": "Einführung in die Programmierung",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588846/course/overviewfiles/Python.png"
-                    },
-                    {
-                        "id": "10781",
-                        "name": "Algorithmen und Datenstrukturen",
-                        "hero_image": ""
-                    },
-                    {
-                        "id": "10779",
-                        "name": "Einführung in Computer Science",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588742/course/overviewfiles/device-3438525_1920.jpg"
-                    },
-                    {
-                        "id": "10778",
-                        "name": "Analysis und Lineare Algebra 1",
-                        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588716/course/overviewfiles/john-moeses-bauan-OGZtQF8iC0g-unsplash.jpg"
-                    }
-                ]
-            }
+  "degree_program": {
+    "id": "1157",
+    "name": "Computational and Data Science",
+    "terms": [
+      {
+        "id": "1886",
+        "name": "HS25",
+        "courses": [
+          {
+            "id": "19475",
+            "name": "Computational and Data Science im Spitzensport",
+            "hero_image": ""
+          },
+          {
+            "id": "19412",
+            "name": "Algorithmen und Datenstrukturen",
+            "hero_image": ""
+          }
         ]
-    },
-    "timestamp": "2025-08-09T17:02:25.118258+00:00"
+      },
+      {
+        "id": "1745",
+        "name": "FS25",
+        "courses": [
+          {
+            "id": "18867",
+            "name": "Artificial Intelligence in Software Engineering I (aise-501)",
+            "hero_image": ""
+          },
+          {
+            "id": "18866",
+            "name": "Wissenschaftliches Arbeiten (TZ) Grundlagen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1159618/course/overviewfiles/Kunst2.JPG"
+          },
+          {
+            "id": "18863",
+            "name": "Programmierung und Prompt Engineering II",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1159522/course/overviewfiles/PythonBooks.PNG"
+          },
+          {
+            "id": "18862",
+            "name": "Einf\u00fchrung Artificial Intelligence (cds-)",
+            "hero_image": ""
+          },
+          {
+            "id": "18248",
+            "name": "Natural Language Processing",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125812/course/overviewfiles/shutterstock_2183480583.jpg"
+          },
+          {
+            "id": "18246",
+            "name": "Wissenschaftliches Arbeiten (VZ) Grundlagen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125748/course/overviewfiles/99_IMG_2291.JPG"
+          },
+          {
+            "id": "18243",
+            "name": "Modellierung und Simulation II",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125650/course/overviewfiles/modsim2.png"
+          },
+          {
+            "id": "18242",
+            "name": "Deep Learning",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125618/course/overviewfiles/istockphoto-1689739923-2048x2048.jpg"
+          },
+          {
+            "id": "18241",
+            "name": "High Performance Computing",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125586/course/overviewfiles/hpc.png"
+          },
+          {
+            "id": "18240",
+            "name": "Effiziente Algorithmen",
+            "hero_image": ""
+          },
+          {
+            "id": "18239",
+            "name": "Simulation in der Physik",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125522/course/overviewfiles/this.jpg"
+          },
+          {
+            "id": "18237",
+            "name": "Mathematik II",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125458/course/overviewfiles/Integration_Differential_b.png"
+          },
+          {
+            "id": "18236",
+            "name": "Numerische Methoden",
+            "hero_image": ""
+          },
+          {
+            "id": "18235",
+            "name": "Projektarbeit Computational and Data Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125394/course/overviewfiles/symbolbild-moodle.PNG"
+          },
+          {
+            "id": "18234",
+            "name": "Bachelor Thesis",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125362/course/overviewfiles/mathew-schwartz-8rj4sz9YLCI-unsplash.jpg"
+          },
+          {
+            "id": "18233",
+            "name": "NoSQL Datenbanken",
+            "hero_image": ""
+          },
+          {
+            "id": "18232",
+            "name": "Large Language Models",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125298/course/overviewfiles/transformer.PNG"
+          },
+          {
+            "id": "18231",
+            "name": "Software Architektur und Engineering",
+            "hero_image": ""
+          },
+          {
+            "id": "18229",
+            "name": "Data Science und Informatik bei Banken und Versicherungen",
+            "hero_image": ""
+          },
+          {
+            "id": "18228",
+            "name": "Datenbanken und Datenverarbeitung",
+            "hero_image": ""
+          },
+          {
+            "id": "17514",
+            "name": "Design Thinking",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058778/course/overviewfiles/pexels-frans-van-heerden-201846-632470.jpg"
+          },
+          {
+            "id": "17512",
+            "name": "First Certificate in English B2.2",
+            "hero_image": ""
+          },
+          {
+            "id": "16313",
+            "name": "Wissenschaftliches Arbeiten Scientific Community",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982967/course/overviewfiles/ISI_20231107_057.jpg"
+          }
+        ]
+      },
+      {
+        "id": "1746",
+        "name": "HS24",
+        "courses": [
+          {
+            "id": "18030",
+            "name": "Bootcamp Wissenschaftliches Arbeiten (cds)",
+            "hero_image": ""
+          },
+          {
+            "id": "17527",
+            "name": "Einf\u00fchrung in Data Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059194/course/overviewfiles/cds1010.jpg"
+          },
+          {
+            "id": "17526",
+            "name": "Einf\u00fchrung in Computational Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059162/course/overviewfiles/cds_intro_sim.jpg"
+          },
+          {
+            "id": "17525",
+            "name": "Mathematik I",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059130/course/overviewfiles/AdobeStock_452512134.png"
+          },
+          {
+            "id": "17519",
+            "name": "Mathematik III",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058938/course/overviewfiles/AdobeStock_224008601.png"
+          },
+          {
+            "id": "17517",
+            "name": "Agiles Projektmanagement",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058874/course/overviewfiles/APM.jpg"
+          },
+          {
+            "id": "17516",
+            "name": "Nachhaltigkeit",
+            "hero_image": ""
+          },
+          {
+            "id": "17515",
+            "name": "Innovationsmanagement",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058810/course/overviewfiles/matt-ridley-Lyl8RL7imrw-unsplash.jpg"
+          },
+          {
+            "id": "17513",
+            "name": "First Certificate in English B2.1",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058746/course/overviewfiles/ilgmyzin-mSIFEZ8WW1M-unsplash.jpg"
+          },
+          {
+            "id": "17511",
+            "name": "Modellierung und Simulation I",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058682/course/overviewfiles/modsim.jpg"
+          },
+          {
+            "id": "17510",
+            "name": "Machine Learning",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058650/course/overviewfiles/phd053104s.gif"
+          },
+          {
+            "id": "17509",
+            "name": "Big Data",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058618/course/overviewfiles/bigdata-kurs.jpg"
+          },
+          {
+            "id": "17508",
+            "name": "Time Series Analysis",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058586/course/overviewfiles/2148879428.jpg"
+          },
+          {
+            "id": "17507",
+            "name": "Programmierung und Prompt Engineering",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058554/course/overviewfiles/10714013_33861.jpg"
+          },
+          {
+            "id": "17505",
+            "name": "Algorithmen und Datenstrukturen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058490/course/overviewfiles/Bild1.png"
+          },
+          {
+            "id": "17503",
+            "name": "Computer Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058426/course/overviewfiles/Titelbild.jpg"
+          },
+          {
+            "id": "17502",
+            "name": "Cloud Computing",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058394/course/overviewfiles/unnamed.jpg"
+          },
+          {
+            "id": "17501",
+            "name": "Data Science und Informatik in der Medizin",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058362/course/overviewfiles/marcelo-leal-k7ll1hpdhFA-unsplash.jpg"
+          },
+          {
+            "id": "17500",
+            "name": "Data Science und Informatik in der Biologie",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058330/course/overviewfiles/shutterstock_2142775731.jpg"
+          },
+          {
+            "id": "17499",
+            "name": "Str\u00f6mungssimulation",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058298/course/overviewfiles/density.png"
+          },
+          {
+            "id": "17498",
+            "name": "Personenstromsimulation",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058266/course/overviewfiles/stair-without-ui.PNG"
+          },
+          {
+            "id": "17497",
+            "name": "Fortgeschrittene Numerische Methoden",
+            "hero_image": ""
+          },
+          {
+            "id": "17495",
+            "name": "Applied English for Computational and Data Scientists",
+            "hero_image": ""
+          },
+          {
+            "id": "16316",
+            "name": "Question Answering",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/983067/course/overviewfiles/mohamed-nohassi--0xMiYQmk8g-unsplash.jpg"
+          },
+          {
+            "id": "16314",
+            "name": "Wissenschaftliches Arbeiten Studienarbeit",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/983001/course/overviewfiles/IMG_2664b.jpg"
+          }
+        ]
+      },
+      {
+        "id": "1561",
+        "name": "FS24",
+        "courses": [
+          {
+            "id": "16317",
+            "name": "Natural Language Processing",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/983100/course/overviewfiles/shutterstock_2183480583.jpg"
+          },
+          {
+            "id": "16315",
+            "name": "Wissenschaftliches Arbeiten Grundlagen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/983034/course/overviewfiles/KunstHS22DBM.jpg"
+          },
+          {
+            "id": "16312",
+            "name": "Datenbanken und Datenverarbeitung",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982933/course/overviewfiles/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
+          },
+          {
+            "id": "16311",
+            "name": "Deep Learning",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982900/course/overviewfiles/Top-7-Machine-Learning-Frameworks-Para-2020.jpg"
+          },
+          {
+            "id": "16310",
+            "name": "High Performance Computing",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982867/course/overviewfiles/hpc.png"
+          },
+          {
+            "id": "16309",
+            "name": "Fortschrittliche Programmiertechniken",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982834/course/overviewfiles/4401280.jpg"
+          },
+          {
+            "id": "16307",
+            "name": "Effiziente Algorithmen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982768/course/overviewfiles/Kursbild_Voronoi.jpg"
+          },
+          {
+            "id": "16306",
+            "name": "Cryptographie und Security",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982735/course/overviewfiles/Sicherheit%20Banner.jpg"
+          },
+          {
+            "id": "16305",
+            "name": "Frontend Entwicklung",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982702/course/overviewfiles/DALL%C2%B7E%202024-01-30%2011.45.35%20-%20Create%20a%20clean%20and%20stylized%20illustration%20that%20abstractly%20represents%20learning%20front-end%20development.%20The%20image%20should%20feature%20a%20sleek%2C%20modern%20monitor%20d.png"
+          },
+          {
+            "id": "16304",
+            "name": "Data Science und Informatik bei Banken und Versicherungen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982669/course/overviewfiles/screen-with-graph-it-that-says-word-financial-it.jpg"
+          },
+          {
+            "id": "16303",
+            "name": "Robotic Process Automation (RPA) (cds-309, PRAM)",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982636/course/overviewfiles/Robot_Wide.png"
+          },
+          {
+            "id": "16302",
+            "name": "Neuroscience und Brain Computer Interface",
+            "hero_image": ""
+          },
+          {
+            "id": "16301",
+            "name": "Mathematik 2",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982570/course/overviewfiles/stapel-buecher-mit-bleistifthalter-und-brille-gegen-eine-tafel.jpg"
+          },
+          {
+            "id": "16300",
+            "name": "Numerische Methoden E",
+            "hero_image": ""
+          },
+          {
+            "id": "16298",
+            "name": "Projektarbeit Computational and Data Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982471/course/overviewfiles/symbolbild-moodle.PNG"
+          },
+          {
+            "id": "16297",
+            "name": "Bachelor Thesis",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/982438/course/overviewfiles/mathew-schwartz-8rj4sz9YLCI-unsplash.jpg"
+          },
+          {
+            "id": "15519",
+            "name": "Design Thinking",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897749/course/overviewfiles/kvalifik-HQgj1kE2SRo-unsplash%20%281%29.jpg"
+          },
+          {
+            "id": "15517",
+            "name": "First Certificate in English B2.2",
+            "hero_image": ""
+          },
+          {
+            "id": "14553",
+            "name": "Wissenschaftliches Arbeiten Scientific Community",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842250/course/overviewfiles/ISI_20231107_057.jpg"
+          }
+        ]
+      },
+      {
+        "id": "1562",
+        "name": "HS23",
+        "courses": [
+          {
+            "id": "16091",
+            "name": "Bootcamp Wissenschaftliches Arbeiten (cds)",
+            "hero_image": ""
+          },
+          {
+            "id": "15529",
+            "name": "Einf\u00fchrung in Data Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/898079/course/overviewfiles/cds1010.jpg"
+          },
+          {
+            "id": "15528",
+            "name": "Einf\u00fchrung in Computational Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/898046/course/overviewfiles/cds_intro_sim.jpg"
+          },
+          {
+            "id": "15527",
+            "name": "Mathematik I",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/898013/course/overviewfiles/AdobeStock_379656183.png"
+          },
+          {
+            "id": "15524",
+            "name": "Mathematik III",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897914/course/overviewfiles/AdobeStock_296597624.png"
+          },
+          {
+            "id": "15522",
+            "name": "Agiles Projektmanagement",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897848/course/overviewfiles/patrick-perkins-ETRPjvb0KM0-unsplash.jpg"
+          },
+          {
+            "id": "15520",
+            "name": "Innovationsmanagement",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897782/course/overviewfiles/pexels-pixabay-355948%20%281%29.jpg"
+          },
+          {
+            "id": "15518",
+            "name": "First Certificate in English B2.1",
+            "hero_image": ""
+          },
+          {
+            "id": "15516",
+            "name": "Modellierung und Simulation I",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897650/course/overviewfiles/modsim.jpg"
+          },
+          {
+            "id": "15515",
+            "name": "Modellierung und Simulation II",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897617/course/overviewfiles/modsim2.png"
+          },
+          {
+            "id": "15514",
+            "name": "Machine Learning",
+            "hero_image": ""
+          },
+          {
+            "id": "15512",
+            "name": "Reinforcement Learning",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897518/course/overviewfiles/22112064_6542704.jpg"
+          },
+          {
+            "id": "15511",
+            "name": "Recommender Systems",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897485/course/overviewfiles/11669306_20945889.jpg"
+          },
+          {
+            "id": "15510",
+            "name": "Einf\u00fchrung in die Programmierung",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897452/course/overviewfiles/10714013_33861.jpg"
+          },
+          {
+            "id": "15508",
+            "name": "Algorithmen und Datenstrukturen",
+            "hero_image": ""
+          },
+          {
+            "id": "15506",
+            "name": "Computer Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897320/course/overviewfiles/Titelbild.jpg"
+          },
+          {
+            "id": "15505",
+            "name": "Systemnahe Programmierung",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897287/course/overviewfiles/Structure-of-the-RISC-CPU.png"
+          },
+          {
+            "id": "15504",
+            "name": "Data Science und Informatik in der Medizin",
+            "hero_image": ""
+          },
+          {
+            "id": "15503",
+            "name": "Data Science und Informatik in der Biologie",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/897221/course/overviewfiles/shutterstock_2142775731.jpg"
+          },
+          {
+            "id": "15502",
+            "name": "Numerische Methoden F",
+            "hero_image": ""
+          },
+          {
+            "id": "15500",
+            "name": "Applied English for Computational and Data Scientists",
+            "hero_image": ""
+          },
+          {
+            "id": "14559",
+            "name": "Question Answering",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842432/course/overviewfiles/mohamed-nohassi--0xMiYQmk8g-unsplash.jpg"
+          },
+          {
+            "id": "14554",
+            "name": "Wissenschaftliches Arbeiten Studienarbeit",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842281/course/overviewfiles/99_IMG_2291.JPG"
+          }
+        ]
+      },
+      {
+        "id": "1503",
+        "name": "FS23",
+        "courses": [
+          {
+            "id": "14869",
+            "name": "LaTeX Bootcamp",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/863220/course/overviewfiles/latex.png"
+          },
+          {
+            "id": "14560",
+            "name": "Natural Language Processing",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842462/course/overviewfiles/shutterstock_2183480583.jpg"
+          },
+          {
+            "id": "14558",
+            "name": "Physik 2",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842402/course/overviewfiles/Gyroscope.jpg"
+          },
+          {
+            "id": "14557",
+            "name": "Design Thinking",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842372/course/overviewfiles/kvalifik-HQgj1kE2SRo-unsplash.jpg"
+          },
+          {
+            "id": "14556",
+            "name": "First Certificate in English B2.2",
+            "hero_image": ""
+          },
+          {
+            "id": "14555",
+            "name": "Wissenschaftliches Arbeiten Grundlagen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842312/course/overviewfiles/KunstHS22DBM.jpg"
+          },
+          {
+            "id": "14552",
+            "name": "Datenverarbeitung",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842219/course/overviewfiles/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
+          },
+          {
+            "id": "14551",
+            "name": "Deep Learning",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842189/course/overviewfiles/istockphoto-1205321953-1024x1024.jpg"
+          },
+          {
+            "id": "14550",
+            "name": "High Performance Computing",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842159/course/overviewfiles/hpc.png"
+          },
+          {
+            "id": "14549",
+            "name": "Big Data",
+            "hero_image": ""
+          },
+          {
+            "id": "14548",
+            "name": "Fortschrittliche Programmiertechniken",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842099/course/overviewfiles/top-programming-languages.png"
+          },
+          {
+            "id": "14547",
+            "name": "Effiziente Algorithmen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842069/course/overviewfiles/algorithms.png"
+          },
+          {
+            "id": "14545",
+            "name": "Simulation in der Physik",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/842009/course/overviewfiles/this.jpg"
+          },
+          {
+            "id": "14544",
+            "name": "Str\u00f6mungssimulation",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/841979/course/overviewfiles/anzeigebild.png"
+          },
+          {
+            "id": "14543",
+            "name": "Analysis und Lineare Algebra 2",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/841949/course/overviewfiles/Blackboard_diverse-drawings.jpg"
+          },
+          {
+            "id": "14542",
+            "name": "Numerische Methoden E",
+            "hero_image": ""
+          },
+          {
+            "id": "14540",
+            "name": "Projektarbeit Computational and Data Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/841859/course/overviewfiles/pexels-fauxels-3183150.jpg"
+          }
+        ]
+      },
+      {
+        "id": "1441",
+        "name": "HS22",
+        "courses": [
+          {
+            "id": "13852",
+            "name": "Bootcamp Wissenschaftliches Arbeiten (cds)",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/789748/course/overviewfiles/IMG_2224.JPG"
+          },
+          {
+            "id": "13725",
+            "name": "Einf\u00fchrung in Data Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728979/course/overviewfiles/cds1010.jpg"
+          },
+          {
+            "id": "13724",
+            "name": "Einf\u00fchrung in Computational Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728950/course/overviewfiles/cds_intro_sim.jpg"
+          },
+          {
+            "id": "13723",
+            "name": "Physik 1",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728921/course/overviewfiles/CollageFisica_cropped.png"
+          },
+          {
+            "id": "13721",
+            "name": "Agiles Projektmanagement",
+            "hero_image": ""
+          },
+          {
+            "id": "13720",
+            "name": "Nachhaltigkeit",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728834/course/overviewfiles/Sustainability-technology-thumbnail-1050x1050.jpg"
+          },
+          {
+            "id": "13719",
+            "name": "Innovationsmanagement",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728805/course/overviewfiles/pexels-pixabay-355948%20%281%29.jpg"
+          },
+          {
+            "id": "13717",
+            "name": "First Certificate in English B2.1",
+            "hero_image": ""
+          },
+          {
+            "id": "13715",
+            "name": "Modellierung und Simulation I",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728688/course/overviewfiles/modsim.jpg"
+          },
+          {
+            "id": "13714",
+            "name": "Machine Learning",
+            "hero_image": ""
+          },
+          {
+            "id": "13713",
+            "name": "Einf\u00fchrung in die Programmierung",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728630/course/overviewfiles/jmricodeswarm.gif"
+          },
+          {
+            "id": "13711",
+            "name": "Algorithmen und Datenstrukturen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728572/course/overviewfiles/aufgabe-suchbaum.PNG"
+          },
+          {
+            "id": "13709",
+            "name": "Einf\u00fchrung in Computer Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728514/course/overviewfiles/Titelbild.jpg"
+          },
+          {
+            "id": "13708",
+            "name": "Daten und Simulation in der Medizin",
+            "hero_image": ""
+          },
+          {
+            "id": "13707",
+            "name": "Data Science und Informatik in der Biologie",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728456/course/overviewfiles/shutterstock_2142775731.jpg"
+          },
+          {
+            "id": "13706",
+            "name": "Analysis und Lineare Algebra 1",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728427/course/overviewfiles/dan-cristian-padure-h3kuhYUCE9A-unsplash.jpg"
+          },
+          {
+            "id": "13705",
+            "name": "Fortgeschrittene Numerische Methoden",
+            "hero_image": ""
+          },
+          {
+            "id": "13703",
+            "name": "Stochastik und Differentialgleichungen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/728340/course/overviewfiles/pexels-jonathan-petersson-965879.jpg"
+          },
+          {
+            "id": "13702",
+            "name": "Applied English for Computational and Data Scientists",
+            "hero_image": ""
+          }
+        ]
+      },
+      {
+        "id": "1351",
+        "name": "FS22",
+        "courses": [
+          {
+            "id": "12163",
+            "name": "Physik 2",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655658/course/overviewfiles/colin-lloyd-XjbLBkyrB_s-unsplash.jpg"
+          },
+          {
+            "id": "12162",
+            "name": "Design Thinking",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655632/course/overviewfiles/pexels-tim-gouw-53874.jpg"
+          },
+          {
+            "id": "12161",
+            "name": "First Certificate in English B2.2",
+            "hero_image": ""
+          },
+          {
+            "id": "12160",
+            "name": "Datenverarbeitung",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655580/course/overviewfiles/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"
+          },
+          {
+            "id": "12159",
+            "name": "Fortschrittliche Programmiertechniken",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655554/course/overviewfiles/jmricodeswarm.gif"
+          },
+          {
+            "id": "12158",
+            "name": "Effiziente Algorithmen",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655528/course/overviewfiles/algorithms.png"
+          },
+          {
+            "id": "12156",
+            "name": "Analysis und Lineare Algebra 2",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/655476/course/overviewfiles/dan-cristian-padure-xJLN32FO7AY-unsplash.jpg"
+          },
+          {
+            "id": "12155",
+            "name": "Numerische Methoden",
+            "hero_image": ""
+          },
+          {
+            "id": "12384",
+            "name": "Bootcamp Wissenschaftliches Arbeiten und LaTeX (cds)",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/687720/course/overviewfiles/IMG_2224.JPG"
+          }
+        ]
+      },
+      {
+        "id": "1281",
+        "name": "HS21",
+        "courses": [
+          {
+            "id": "10790",
+            "name": "Einf\u00fchrung in Data Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/589028/course/overviewfiles/cds1010.jpg"
+          },
+          {
+            "id": "10789",
+            "name": "Einf\u00fchrung in Computational Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/589002/course/overviewfiles/cds_intro_sim.jpg"
+          },
+          {
+            "id": "10788",
+            "name": "Physik 1",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588976/course/overviewfiles/78_MS_1965.jpg"
+          },
+          {
+            "id": "10787",
+            "name": "Agiles Projektmanagement",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588950/course/overviewfiles/leon-Oalh2MojUuk-unsplash.jpg"
+          },
+          {
+            "id": "10786",
+            "name": "Nachhaltigkeit",
+            "hero_image": ""
+          },
+          {
+            "id": "10785",
+            "name": "Innovationsmanagement",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588898/course/overviewfiles/pexels-pixabay-355948.jpg"
+          },
+          {
+            "id": "10784",
+            "name": "First Certificate in English B2.1",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588872/course/overviewfiles/gonzalo-facello-mapwMeloRgo-unsplash.jpg"
+          },
+          {
+            "id": "10783",
+            "name": "Einf\u00fchrung in die Programmierung",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588846/course/overviewfiles/Python.png"
+          },
+          {
+            "id": "10781",
+            "name": "Algorithmen und Datenstrukturen",
+            "hero_image": ""
+          },
+          {
+            "id": "10779",
+            "name": "Einf\u00fchrung in Computer Science",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588742/course/overviewfiles/device-3438525_1920.jpg"
+          },
+          {
+            "id": "10778",
+            "name": "Analysis und Lineare Algebra 1",
+            "hero_image": "https://moodle.fhgr.ch/pluginfile.php/588716/course/overviewfiles/john-moeses-bauan-OGZtQF8iC0g-unsplash.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2025-08-09T17:02:25.118258+00:00",
+  "1745": {
+    "name": "FS25",
+    "courses": {
+      "18863": {
+        "name": "Programmierung und Prompt Engineering II",
+        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1159522/course/overviewfiles/PythonBooks.PNG",
+        "content_ressource_id": "1159522",
+        "files": {}
+      },
+      "18240": {
+        "name": "Effiziente Algorithmen",
+        "hero_image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNDAiIGhlaWdodD0iMzYwIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJyZ2IoMTI5LCAyMzYsIDIzNikiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xMjQ7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC0xNTApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTI0O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAyMTApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTU7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC0xNDApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTU7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDIyMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wNTQ2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC0xMzApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDU0NjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAyMzApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTQxMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC0xMjApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTQxMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDI0MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4xNTtzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgLTExMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4xNTtzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMjUwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA2MzMzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgLTEwMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDI2MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMzczMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC05MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMzczMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDI3MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wODkzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC04MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wODkzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDI4MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNDY7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC03MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNDY7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDI5MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNDY7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC02MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNDY7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDMwMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4xMzI2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgLTUwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjEzMjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAzMTApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDI4NjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAtNDApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDI4NjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAzMjApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDI7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC0zMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMjtzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMzMwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjE0MTMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAtMjApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTQxMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDM0MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIC0xMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDM1MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMzczMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDM3MzMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAzNjApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTQxMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjE0MTMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAzNzApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDgwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAyMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wODA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDM4MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4xNTtzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMzApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTU7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDM5MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMjtzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNDApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDI7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDQwMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wNTQ2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDUwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA1NDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNDEwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA2MzMzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNjApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDYzMzMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA0MjApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDcwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA0MzApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDgwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA4MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wODA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDQ0MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wMjg2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDkwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjAyODY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNDUwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxMDApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDQ2MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMzczMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDExMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMzczMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDQ3MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wODkzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEyMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wODkzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDQ4MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNDY7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEzMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNDY7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDQ5MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xMDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTQwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA1MDApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDE1MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xMDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MTBweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNTEwKSIgLz48cGF0aCBkPSJNMCAxMDAgQyA1OS41IDAsIDExMSAwLCAxNzAgMTAwIFMgMjgxIDIwMCwgMzQwIDEwMCBTIDQ1MSAwLCA1MTAsIDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoxMHB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNjApIiAvPjxwYXRoIGQ9Ik0wIDEwMCBDIDU5LjUgMCwgMTExIDAsIDE3MCAxMDAgUyAyODEgMjAwLCAzNDAgMTAwIFMgNDUxIDAsIDUxMCwgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDUyMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wODA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDE3MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wODA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDUzMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDE4MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDU0MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMzczMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDE5MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMzczMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDU1MCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDIwMCkiIC8+PHBhdGggZD0iTTAgMTAwIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDEwMCBTIDI4MSAyMDAsIDM0MCAxMDAgUyA0NTEgMCwgNTEwLCAxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjEwcHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDU2MCkiIC8+PC9zdmc+",
+        "content_ressource_id": "1125554",
+        "files": {}
+      },
+      "18237": {
+        "name": "Mathematik II",
+        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1125458/course/overviewfiles/Integration_Differential_b.png",
+        "content_ressource_id": "1125458",
+        "files": {}
+      },
+      "18236": {
+        "name": "Numerische Methoden",
+        "hero_image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTkiIGhlaWdodD0iMTk5Ij48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJyZ2IoMTc4LCAxOTAsIDE5NSkiIC8+PGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA4MDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjIwMCIgY3k9IjAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA4MDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjAiIGN5PSIyMDAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA4MDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjIwMCIgY3k9IjIwMCIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDgwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMzMuMzMzMzMzMzMzMzMzIiBjeT0iMCIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTMyNjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIzMy4zMzMzMzMzMzMzMzMiIGN5PSIyMDAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjEzMjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iNjYuNjY2NjY2NjY2NjY3IiBjeT0iMCIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDI7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSI2Ni42NjY2NjY2NjY2NjciIGN5PSIyMDAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjAyO3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMCIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTMyNjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSIyMDAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjEzMjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMTMzLjMzMzMzMzMzMzMzIiBjeT0iMCIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDk4O3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMTMzLjMzMzMzMzMzMzMzIiBjeT0iMjAwIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wOTg7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxNjYuNjY2NjY2NjY2NjciIGN5PSIwIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4xNTtzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjE2Ni42NjY2NjY2NjY2NyIgY3k9IjIwMCIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTU7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIwIiBjeT0iMzMuMzMzMzMzMzMzMzMzIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xNDEzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjIwMCIgY3k9IjMzLjMzMzMzMzMzMzMzMyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTQxMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIzMy4zMzMzMzMzMzMzMzMiIGN5PSIzMy4zMzMzMzMzMzMzMzMiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjAyO3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iNjYuNjY2NjY2NjY2NjY3IiBjeT0iMzMuMzMzMzMzMzMzMzMzIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wODkzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSIzMy4zMzMzMzMzMzMzMzMiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjAyODY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjEzMy4zMzMzMzMzMzMzMyIgY3k9IjMzLjMzMzMzMzMzMzMzMyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTE1MzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxNjYuNjY2NjY2NjY2NjciIGN5PSIzMy4zMzMzMzMzMzMzMzMiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA3MjtzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjAiIGN5PSI2Ni42NjY2NjY2NjY2NjciIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA3MjtzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjIwMCIgY3k9IjY2LjY2NjY2NjY2NjY2NyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDcyO3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMzMuMzMzMzMzMzMzMzMzIiBjeT0iNjYuNjY2NjY2NjY2NjY3IiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xNDEzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjY2LjY2NjY2NjY2NjY2NyIgY3k9IjY2LjY2NjY2NjY2NjY2NyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSI2Ni42NjY2NjY2NjY2NjciIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjAyO3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMTMzLjMzMzMzMzMzMzMzIiBjeT0iNjYuNjY2NjY2NjY2NjY3IiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wNTQ2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxNjYuNjY2NjY2NjY2NjciIGN5PSI2Ni42NjY2NjY2NjY2NjciIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA4MDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjAiIGN5PSIxMDAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjAyO3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMjAwIiBjeT0iMTAwIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMjtzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjMzLjMzMzMzMzMzMzMzMyIgY3k9IjEwMCIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDg5MzMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iNjYuNjY2NjY2NjY2NjY3IiBjeT0iMTAwIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wNzI7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMTMzLjMzMzMzMzMzMzMzIiBjeT0iMTAwIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wNzI7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxNjYuNjY2NjY2NjY2NjciIGN5PSIxMDAiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA4OTMzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjAiIGN5PSIxMzMuMzMzMzMzMzMzMzMiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA1NDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjIwMCIgY3k9IjEzMy4zMzMzMzMzMzMzMyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDU0NjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMzMuMzMzMzMzMzMzMzMzIiBjeT0iMTMzLjMzMzMzMzMzMzMzIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wODkzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSI2Ni42NjY2NjY2NjY2NjciIGN5PSIxMzMuMzMzMzMzMzMzMzMiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA5ODtzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjEwMCIgY3k9IjEzMy4zMzMzMzMzMzMzMyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxMzMuMzMzMzMzMzMzMzMiIGN5PSIxMzMuMzMzMzMzMzMzMzMiIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMTY2LjY2NjY2NjY2NjY3IiBjeT0iMTMzLjMzMzMzMzMzMzMzIiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4xMTUzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjAiIGN5PSIxNjYuNjY2NjY2NjY2NjciIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA2MzMzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjIwMCIgY3k9IjE2Ni42NjY2NjY2NjY2NyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDYzMzMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PGNpcmNsZSBjeD0iMzMuMzMzMzMzMzMzMzMzIiBjeT0iMTY2LjY2NjY2NjY2NjY3IiByPSIyOS4xNjY2NjY2NjY2NjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSI2Ni42NjY2NjY2NjY2NjciIGN5PSIxNjYuNjY2NjY2NjY2NjciIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEyNDtzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjEwMCIgY3k9IjE2Ni42NjY2NjY2NjY2NyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjguMzMzMzMzMzMzMzMzM3B4OyIgLz48Y2lyY2xlIGN4PSIxMzMuMzMzMzMzMzMzMzMiIGN5PSIxNjYuNjY2NjY2NjY2NjciIHI9IjI5LjE2NjY2NjY2NjY2NyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjAzNzMzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6OC4zMzMzMzMzMzMzMzMzcHg7IiAvPjxjaXJjbGUgY3g9IjE2Ni42NjY2NjY2NjY2NyIgY3k9IjE2Ni42NjY2NjY2NjY2NyIgcj0iMjkuMTY2NjY2NjY2NjY3IiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDk4O3N0cm9rZS13aWR0aDo4LjMzMzMzMzMzMzMzMzNweDsiIC8+PC9zdmc+",
+        "content_ressource_id": "1125426",
+        "files": {}
+      },
+      "18228": {
+        "name": "Datenbanken und Datenverarbeitung",
+        "hero_image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iMjUwIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJyZ2IoMjUzLCAxMjEsIDE2OCkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA4MDY2NjY2NjY2NjY2NyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMzEuMzMzMzMzMzMzMzMzKSBzY2FsZSgxLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA4MDY2NjY2NjY2NjY2NyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjIuNjY2NjY2NjY2NjY3LCAzMS4zMzMzMzMzMzMzMzMpIHNjYWxlKC0xLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA4MDY2NjY2NjY2NjY2NyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMzEuMzMzMzMzMzMzMzMzKSBzY2FsZSgxLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMDgwNjY2NjY2NjY2NjY3IiBmaWxsPSIjMjIyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2Mi42NjY2NjY2NjY2NjcsIDMxLjMzMzMzMzMzMzMzMykgc2NhbGUoLTEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wODkzMzMzMzMzMzMzMzMiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDk0LCAwKSBzY2FsZSgtMSwgMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA4OTMzMzMzMzMzMzMzMyIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTQsIDYyLjY2NjY2NjY2NjY2Nykgc2NhbGUoMSwgLTEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xNDEzMzMzMzMzMzMzMyIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTQsIDYyLjY2NjY2NjY2NjY2Nykgc2NhbGUoLTEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTQxMzMzMzMzMzMzMzMiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDk0LCAwKSBzY2FsZSgxLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTQxMzMzMzMzMzMzMzMiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyNS4zMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzKSBzY2FsZSgxLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjE0MTMzMzMzMzMzMzMzIiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxODgsIDMxLjMzMzMzMzMzMzMzMykgc2NhbGUoLTEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTQxMzMzMzMzMzMzMzMiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyNS4zMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzKSBzY2FsZSgxLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTQxMzMzMzMzMzMzMzMiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE4OCwgMzEuMzMzMzMzMzMzMzMzKSBzY2FsZSgtMSwgMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjEwNjY2NjY2NjY2NjY3IiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMTkuMzMzMzMzMzMzMzMsIDApIHNjYWxlKC0xLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTA2NjY2NjY2NjY2NjciIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIxOS4zMzMzMzMzMzMzMywgNjIuNjY2NjY2NjY2NjY3KSBzY2FsZSgxLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA0NiIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjE5LjMzMzMzMzMzMzMzLCA2Mi42NjY2NjY2NjY2NjcpIHNjYWxlKC0xLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA0NiIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjE5LjMzMzMzMzMzMzMzLCAwKSBzY2FsZSgxLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMDQ2IiBmaWxsPSIjMjIyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMS4zMzMzMzMzMzMzMzMsIDYyLjY2NjY2NjY2NjY2Nykgc2NhbGUoLTEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wNDYiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMxLjMzMzMzMzMzMzMzMywgMTI1LjMzMzMzMzMzMzMzKSBzY2FsZSgxLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjEyNCIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzEuMzMzMzMzMzMzMzMzLCAxMjUuMzMzMzMzMzMzMzMpIHNjYWxlKC0xLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjEyNCIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzEuMzMzMzMzMzMzMzMzLCA2Mi42NjY2NjY2NjY2NjcpIHNjYWxlKDEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMjQiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYyLjY2NjY2NjY2NjY2NywgOTQpIHNjYWxlKDEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTI0IiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMjUuMzMzMzMzMzMzMzMsIDk0KSBzY2FsZSgtMSwgLTEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMjQiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYyLjY2NjY2NjY2NjY2NywgOTQpIHNjYWxlKDEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMjQiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyNS4zMzMzMzMzMzMzMywgOTQpIHNjYWxlKC0xLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMDg5MzMzMzMzMzMzMzMzIiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNTYuNjY2NjY2NjY2NjcsIDYyLjY2NjY2NjY2NjY2Nykgc2NhbGUoLTEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wODkzMzMzMzMzMzMzMzMiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1Ni42NjY2NjY2NjY2NywgMTI1LjMzMzMzMzMzMzMzKSBzY2FsZSgxLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjE1IiBmaWxsPSIjMjIyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNTYuNjY2NjY2NjY2NjcsIDEyNS4zMzMzMzMzMzMzMykgc2NhbGUoLTEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTUiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1Ni42NjY2NjY2NjY2NywgNjIuNjY2NjY2NjY2NjY3KSBzY2FsZSgxLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTUiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE4OCwgOTQpIHNjYWxlKDEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTUiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MC42NjY2NjY2NjY2NywgOTQpIHNjYWxlKC0xLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjE1IiBmaWxsPSIjMjIyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxODgsIDk0KSBzY2FsZSgxLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTUiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MC42NjY2NjY2NjY2NywgOTQpIHNjYWxlKC0xLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTMyNjY2NjY2NjY2NjciIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsIDE1Ni42NjY2NjY2NjY2Nykgc2NhbGUoMSwgLTEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMzI2NjY2NjY2NjY2NyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjIuNjY2NjY2NjY2NjY3LCAxNTYuNjY2NjY2NjY2NjcpIHNjYWxlKC0xLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjEzMjY2NjY2NjY2NjY3IiBmaWxsPSIjMjIyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAxNTYuNjY2NjY2NjY2NjcpIHNjYWxlKDEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMzI2NjY2NjY2NjY2NyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjIuNjY2NjY2NjY2NjY3LCAxNTYuNjY2NjY2NjY2NjcpIHNjYWxlKC0xLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMDM3MzMzMzMzMzMzMzMzIiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5NCwgMTI1LjMzMzMzMzMzMzMzKSBzY2FsZSgtMSwgMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjAzNzMzMzMzMzMzMzMzMyIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTQsIDE4OCkgc2NhbGUoMSwgLTEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMjQiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDk0LCAxODgpIHNjYWxlKC0xLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjEyNCIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTQsIDEyNS4zMzMzMzMzMzMzMykgc2NhbGUoMSwgMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjEyNCIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTI1LjMzMzMzMzMzMzMzLCAxNTYuNjY2NjY2NjY2NjcpIHNjYWxlKDEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTI0IiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxODgsIDE1Ni42NjY2NjY2NjY2Nykgc2NhbGUoLTEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTI0IiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMjUuMzMzMzMzMzMzMzMsIDE1Ni42NjY2NjY2NjY2Nykgc2NhbGUoMSwgMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjEyNCIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg4LCAxNTYuNjY2NjY2NjY2NjcpIHNjYWxlKC0xLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTA2NjY2NjY2NjY2NjciIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIxOS4zMzMzMzMzMzMzMywgMTI1LjMzMzMzMzMzMzMzKSBzY2FsZSgtMSwgMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjEwNjY2NjY2NjY2NjY3IiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMTkuMzMzMzMzMzMzMzMsIDE4OCkgc2NhbGUoMSwgLTEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wNzIiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIxOS4zMzMzMzMzMzMzMywgMTg4KSBzY2FsZSgtMSwgLTEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wNzIiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIxOS4zMzMzMzMzMzMzMywgMTI1LjMzMzMzMzMzMzMzKSBzY2FsZSgxLCAxKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMDcyIiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMS4zMzMzMzMzMzMzMzMsIDE4OCkgc2NhbGUoLTEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wNzIiIGZpbGw9IiNkZGQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMxLjMzMzMzMzMzMzMzMywgMjUwLjY2NjY2NjY2NjY3KSBzY2FsZSgxLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA0NiIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzEuMzMzMzMzMzMzMzMzLCAyNTAuNjY2NjY2NjY2NjcpIHNjYWxlKC0xLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA0NiIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzEuMzMzMzMzMzMzMzMzLCAxODgpIHNjYWxlKDEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wNDYiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYyLjY2NjY2NjY2NjY2NywgMjE5LjMzMzMzMzMzMzMzKSBzY2FsZSgxLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA0NiIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTI1LjMzMzMzMzMzMzMzLCAyMTkuMzMzMzMzMzMzMzMpIHNjYWxlKC0xLCAtMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjA0NiIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjIuNjY2NjY2NjY2NjY3LCAyMTkuMzMzMzMzMzMzMzMpIHNjYWxlKDEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wNDYiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyNS4zMzMzMzMzMzMzMywgMjE5LjMzMzMzMzMzMzMzKSBzY2FsZSgtMSwgMSkiIC8+PHBvbHlsaW5lIHBvaW50cz0iMCwgMCwgMzEuMzMzMzMzMzMzMzMzLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDMxLjMzMzMzMzMzMzMzMywgMCwgMCIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utb3BhY2l0eT0iMC4wMiIgZmlsbC1vcGFjaXR5PSIwLjAyIiBmaWxsPSIjZGRkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNTYuNjY2NjY2NjY2NjcsIDE4OCkgc2NhbGUoLTEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4wMiIgZmlsbD0iI2RkZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTU2LjY2NjY2NjY2NjY3LCAyNTAuNjY2NjY2NjY2NjcpIHNjYWxlKDEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTE1MzMzMzMzMzMzMzMiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1Ni42NjY2NjY2NjY2NywgMjUwLjY2NjY2NjY2NjY3KSBzY2FsZSgtMSwgLTEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMTUzMzMzMzMzMzMzMyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTU2LjY2NjY2NjY2NjY3LCAxODgpIHNjYWxlKDEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMTUzMzMzMzMzMzMzMyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg4LCAyMTkuMzMzMzMzMzMzMzMpIHNjYWxlKDEsIC0xKSIgLz48cG9seWxpbmUgcG9pbnRzPSIwLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDMxLjMzMzMzMzMzMzMzMywgMCwgMzEuMzMzMzMzMzMzMzMzLCAwLCAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1vcGFjaXR5PSIwLjAyIiBmaWxsLW9wYWNpdHk9IjAuMTE1MzMzMzMzMzMzMzMiIGZpbGw9IiMyMjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MC42NjY2NjY2NjY2NywgMjE5LjMzMzMzMzMzMzMzKSBzY2FsZSgtMSwgLTEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMTUzMzMzMzMzMzMzMyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg4LCAyMTkuMzMzMzMzMzMzMzMpIHNjYWxlKDEsIDEpIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsIDAsIDMxLjMzMzMzMzMzMzMzMywgMzEuMzMzMzMzMzMzMzMzLCAwLCAzMS4zMzMzMzMzMzMzMzMsIDAsIDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDIiIGZpbGwtb3BhY2l0eT0iMC4xMTUzMzMzMzMzMzMzMyIgZmlsbD0iIzIyMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjUwLjY2NjY2NjY2NjY3LCAyMTkuMzMzMzMzMzMzMzMpIHNjYWxlKC0xLCAxKSIgLz48L3N2Zz4=",
+        "content_ressource_id": "1125170",
+        "files": {}
+      }
+    }
+  },
+  "1746": {
+    "name": "HS24",
+    "courses": {
+      "18030": {
+        "name": "Bootcamp Wissenschaftliches Arbeiten (cds)",
+        "hero_image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNDAiIGhlaWdodD0iOTM2Ij48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJyZ2IoMTI5LCAyMzYsIDIzNikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEyNDtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgLTEwOCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEyNDtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgODI4KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDk4O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAtODIpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wOTg7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDg1NCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjEzMjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAtNTYpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4xMzI2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgODgwKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDQ2O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAtMzApIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNDY7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDkwNikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjAyODY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgLTQpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wMjg2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDkzMikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA5ODtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMjIpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wOTg7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDk1OCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEyNDtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNDgpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xMjQ7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDk4NCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA4OTMzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNzQpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wODkzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEwMTApIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMzczMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEwMCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjAzNzMzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTAzNikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA0NjtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTI2KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDQ2O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxMDYyKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDE1MikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxMDg4KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDcyO3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNzgpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wNzI7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDExMTQpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wMjg2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDIwNCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjAyODY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTE0MCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA1NDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMjMwKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDU0NjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxMTY2KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTMyNjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDI1NikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjEzMjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxMTkyKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDgwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAyODIpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wODA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEyMTgpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wMjtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMzA4KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDI7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEyNDQpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4xMTUzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMzM0KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTE1MzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEyNzApIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xMDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMzYwKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEyOTYpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4wODkzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDM4NikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA4OTMzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTMyMikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjA1NDY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNDEyKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMDU0NjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxMzQ4KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDgwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA0MzgpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wODA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDEzNzQpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xMjQ7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDQ2NCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEyNDtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTQwMCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjE0MTMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA0OTApIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xNDEzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTQyNikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEyNDtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNTE2KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTI0O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNDUyKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDU0MikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNDc4KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMTMyNjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDU2OCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjEzMjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNTA0KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDYzMzMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA1OTQpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wNjMzMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDE1MzApIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xMjQ7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDYyMCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEyNDtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTU1NikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjAyODY2NjY2NjY2NjY2NztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNjQ2KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDI4NjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNTgyKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTI0O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA2NzIpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xMjQ7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDE2MDgpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIyMiIgc3R5bGU9Im9wYWNpdHk6MC4wOTg7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDY5OCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA5ODtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTYzNCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjE0MTMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCA3MjQpIiAvPjxwYXRoIGQ9Ik0wIDcyIEMgNTkuNSAwLCAxMTEgMCwgMTcwIDcyIFMgMjgxIDE0NCwgMzQwIDcyIFMgNDUxIDAsIDUxMCwgNzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2RkZCIgc3R5bGU9Im9wYWNpdHk6MC4xNDEzMzMzMzMzMzMzMztzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgMTY2MCkiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjIyIiBzdHlsZT0ib3BhY2l0eTowLjA0NjtzdHJva2Utd2lkdGg6MjZweDsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NSwgNzUwKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMjIiIHN0eWxlPSJvcGFjaXR5OjAuMDQ2O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNjg2KSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTQxMzMzMzMzMzMzMzM7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDc3NikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjE0MTMzMzMzMzMzMzMzO3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNzEyKSIgLz48cGF0aCBkPSJNMCA3MiBDIDU5LjUgMCwgMTExIDAsIDE3MCA3MiBTIDI4MSAxNDQsIDM0MCA3MiBTIDQ1MSAwLCA1MTAsIDcyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGQiIHN0eWxlPSJvcGFjaXR5OjAuMTA2NjY2NjY2NjY2Njc7c3Ryb2tlLXdpZHRoOjI2cHg7IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODUsIDgwMikiIC8+PHBhdGggZD0iTTAgNzIgQyA1OS41IDAsIDExMSAwLCAxNzAgNzIgUyAyODEgMTQ0LCAzNDAgNzIgUyA0NTEgMCwgNTEwLCA3MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRkIiBzdHlsZT0ib3BhY2l0eTowLjEwNjY2NjY2NjY2NjY3O3N0cm9rZS13aWR0aDoyNnB4OyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTg1LCAxNzM4KSIgLz48L3N2Zz4=",
+        "content_ressource_id": "1090544",
+        "files": {}
+      },
+      "17527": {
+        "name": "Einf\u00fchrung in Data Science",
+        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059194/course/overviewfiles/cds1010.jpg",
+        "content_ressource_id": "1059194",
+        "files": {}
+      },
+      "17526": {
+        "name": "Einf\u00fchrung in Computational Science",
+        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059162/course/overviewfiles/cds_intro_sim.jpg",
+        "content_ressource_id": "1059162",
+        "files": {}
+      },
+      "17525": {
+        "name": "Mathematik I",
+        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1059130/course/overviewfiles/AdobeStock_452512134.png",
+        "content_ressource_id": "1059130",
+        "files": {}
+      },
+      "17507": {
+        "name": "Programmierung und Prompt Engineering",
+        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058554/course/overviewfiles/10714013_33861.jpg",
+        "content_ressource_id": "1058554",
+        "files": {}
+      },
+      "17505": {
+        "name": "Algorithmen und Datenstrukturen",
+        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058490/course/overviewfiles/Bild1.png",
+        "content_ressource_id": "1058490",
+        "files": {}
+      },
+      "17503": {
+        "name": "Computer Science",
+        "hero_image": "https://moodle.fhgr.ch/pluginfile.php/1058426/course/overviewfiles/Titelbild.jpg",
+        "content_ressource_id": "1058426",
+        "files": {}
+      }
+    }
+  }
 }
